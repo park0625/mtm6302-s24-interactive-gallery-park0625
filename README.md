@@ -1,4 +1,4 @@
 # interactive-gallery
-> Student Name:
+> Student Name: Roland Parker
 >
-> Student Number:
+> Student Number: 041163804
